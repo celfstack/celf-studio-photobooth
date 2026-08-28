@@ -1,0 +1,2 @@
+# celf-studio-photobooth
+photobooth
